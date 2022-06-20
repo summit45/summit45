@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 
 # Solved.ac
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/sum_mit45/)  |
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)](https://solved.ac/sum_mit45/)
