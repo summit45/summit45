@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <a href="https://github.com/anuraghazra/Anurag's GitHub stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=summit4500&show_icons=true&theme=dracula" height="170"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=summit45&show_icons=true&theme=dracula" height="170"/>
 </a>
 <a href="https://github.com/anuraghazra/Top Langs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summit45&layout=compact&theme=dracula" height="170" />
