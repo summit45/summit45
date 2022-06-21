@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Activity
-
-|         Type        |      Date     |                                                                                             Contents                                                                                            |         Organization         |
-|:-------------------:|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------:|
-
-
 <h3 align="center"><b> Solved.ac </b></h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)](https://solved.ac/sum_mit45/)
 
