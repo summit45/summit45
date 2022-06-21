@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="center"><b> Solved.ac </b></h3>
-
 <div align="center">
+<h3><b> Solved.ac </b></h3>
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)
-</div>
 
 <h3 align="center"><b> My Status </b></h3>
-<div align="center">
-  
 <a href="https://github.com/anuraghazra/Anurag's GitHub stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=summit45&show_icons=true&theme=dracula" height="170"/>
 </a>
