@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3 align="center"><b> Solved.ac </b></h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)](https://solved.ac/sum_mit45/)
+
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)
 
 <h3 align="center"><b> My Status </b></h3>
