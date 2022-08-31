@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-👀 I’m interested in spring boot, django, React.js, Next.js, firebase
+👀 I’m interested in spring boot, django, React.js, Next.js, firebase <br>
 🌱 I’m currently learning Computer Science 
 
 ### ⭐️ My Status ⭐️
