@@ -44,6 +44,7 @@
 ### - 2021
 - ALGOS academy (2021.03 ~ 2023.12)
 - Sookmyung Women's University StartUp MVP/Prototype Development Supporters Executive (2021.10 ~ 2022.12)
+<br/>
 
 ## STATUS
 <div align=center>
@@ -51,6 +52,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=summit45&show_icons=true&theme=dracula" height="170"/>
   </a>
 </div>
+<br/>
 
 ## Interest
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" height="25" > <img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white" height="25" > <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white" height="25"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25"> 
@@ -65,9 +67,8 @@
 
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="80" height="25" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" width="90" height="25" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="85" height="25" />
 
-
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-
+<br/>
 
 ## SOLVED.AC
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sum_mit45)
