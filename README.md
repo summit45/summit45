@@ -7,8 +7,9 @@
 ## Project
 | Period | Service | Description | Stack | Link |
 |:---:|:---:|:---:|:---:|:---:|
-| 2023.12~ | Daewoong Image Generation | 사내 캐릭터로 상황에 맞는 이미지 생성 모델 및 프롬프트 공유 웹사이트| Stable Diffusion(Lora), Django | |
-| 2023.12~ | Webfounder | 멋쟁이사자처럼 리쿠르팅 웹사이트 | Reactjs, Spring Boot, Mysql | [Webfounder-Server](https://github.com/Likelion-at-SMWU-WebFounder) |
+| 2024.06~ | Daewoong Chatbot QA Platform | 챗봇 성능을 테스트하고 답변을 피드백하는 QA용 웹 | Springboot, Mustache, Javascript | [QAServer](https://github.com/summit45/chat-platform-dev-scholar)|
+| 2023.12~2024.05 | Daewoong Image Generation | 사내 캐릭터로 상황에 맞는 이미지 생성 모델 및 프롬프트 공유 웹사이트| Stable Diffusion(Lora), Django | [WebServer](https://github.com/summit45/GenAI_image)|
+| 2023.11~2024.04 | Webfounder | 멋쟁이사자처럼 리쿠르팅 웹사이트 | Reactjs, Spring Boot, Mysql | [Webfounder-Server](https://github.com/Likelion-at-SMWU-WebFounder) |
 | 2022.05~2022.12 | LoF(League of Fandom) | LoL게임의 일정/정보 제공 글로벌 e-sports 팬덤 플랫폼| Android Studio, Kotlin, Spring Boot, MySql, Selenium, Jsoup | [Lof-Server](https://github.com/LeagueOfFandom/LoFserver) |
 | 2023.03~2023.08 | 펭이의 모험 | 단어를 정확히 발음하여 블록이 깨뜨려서 펭귄이 지나갈 수 있는 길을 만드는 게임 | unity, django, Clova API, matplot | [Pengi-Server](https://github.com/ICCAS2023Germany/Pengi_Server_Deploy_Django)|
 | 2022.05~2022.12 | 공구대학교 | 가장 효율적인 공동구매 중개 플랫폼 | ReactJS, Firebase | [Mobile Web](https://csscwave.netlify.app/) <br> [Client](https://github.com/cwave-org/cwave) | 
