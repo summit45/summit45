@@ -1,7 +1,6 @@
-## 이수민 | Sumin Lee
+## Summit45
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummit45&count_bg=%236275E7&title_bg=%23FF9393&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-> Hello, I am Sumin Lee. <br>
 > I majored in Computer Science and Bigdata Analytics. <br>
 > Interested in backend development solving problems from different perspectives. <br>
 
@@ -22,28 +21,31 @@
 
 ## Experience
 ### - 2024
-- Daewoong Digital Health Scholarship (2023.12 ~ 2023.05)
+- Daewoong Digital Health Scholarship 2nd (2024.09 ~ )
+- Daewoong Digital Health Scholarship 1st (2023.12 ~ 2024.08)
 - IBk Bank Digital Field Internship (2024.01 ~ 2024.02) 
 
 ### - 2023
 - KUSITMS 28th server (2023.08 ~ 2023.12)
 - Awared at donga-hicardi web project : Grand Prize (2023.09)
 - ICCAS 2023 in Germany (2023.03 ~ 2023.08)
-- LikeLion at Sookmyung Women's University 10th Executive (2023.01 ~ 2023.12)
+- LikeLion 11th Executive (2023.01 ~ 2023.12)
+<!-- - LikeLion at Sookmyung Women's University 10th Executive (2023.01 ~ 2023.12) -->
 
 ### - 2022
 - Software Maestro 13th (2022.04 ~ 2022.12)
-- Sookmyung Women's University Entrepreneurship Club Course (2022.09 ~ )
-- LikeLion at Sookmyung Women's University 10th (2022.03 ~ 2022.12)
-- Awarded at Sookmyung Women's University m-Business IR Contest : Encouragement prize (2022.11 ~ 2022.12)
+- University Entrepreneurship Club Course (2022.09 ~ )
+- LikeLion 10th (2022.03 ~ 2022.12)
+- Awarded at University m-Business IR Contest : Encouragement prize (2022.11 ~ 2022.12)
 - Awarded at 2022 Open Data Forum Hackathon : MODU(모두의 화장실), Excellence Prize (2022.11)
 - Awarded at 2022 Shinhan Big Data Hackathon : 신한pLaylist&신한Together, Grand Prize (2022.10)
-- Sookmyung Women's University StartUp MVP/Prototype Development Supporters (2022.10 ~ 2022.12)
-- Awarded at Sookmyung Women's University Self-Directed Career Project : 공구대학교, Excellence Prize (2022.03 ~ 2022.06)
+- StartUp MVP/Prototype Development Supporters (2022.10 ~ 2022.12)
+- Awarded at Self-Directed Career Project : 공구대학교, Excellence Prize (2022.03 ~ 2022.06)
+<!--- Sookmyung Women's University StartUp MVP/Prototype Development Supporters (2022.10 ~ 2022.12) -->
 
 ### - 2021
 - ALGOS academy (2021.03 ~ 2023.12)
-- Sookmyung Women's University StartUp MVP/Prototype Development Supporters Executive (2021.10 ~ 2022.12)
+- StartUp MVP/Prototype Development Supporters Executive (2021.10 ~ 2022.12)
 <br/>
 
 ## STATUS
